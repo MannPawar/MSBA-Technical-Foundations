@@ -1,0 +1,1 @@
+"0","ggplot(HW4, aes(AccountBalance, CreditRating)) + geom_point(color=""#6F4E37"") + geom_smooth(method=""lm"", color=""lightgreen"") + labs(title=""Correlation between Account Balance and Credit Rating"", x=""Account Balance"", y=""Credit Rating"")"

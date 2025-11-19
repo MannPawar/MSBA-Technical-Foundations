@@ -1,0 +1,4 @@
+"0","avg_creditscore<-HW4%>%"
+"0"," group_by(Geography,Sex)%>%"
+"0"," summarise(CreditRating=mean(CreditRating,na.rm=T))"
+"0"," avg_creditscore"

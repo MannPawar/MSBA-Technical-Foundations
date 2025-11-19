@@ -1,0 +1,1 @@
+"0","Q4 <- ggplot(HW4, aes(HasCreditCard)) + geom_bar() + labs(title=""How Many Individuals have a Credit Card"" , x=""Have Credit Card?"", y=""Number of People"") ; Q4"

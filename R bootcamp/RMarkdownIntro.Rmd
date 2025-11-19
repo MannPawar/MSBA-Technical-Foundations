@@ -1,0 +1,28 @@
+---
+title: "TestRMD"
+author: "MannP"
+date: "2025-07-31"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# First RMD Page
+## Second level heading
+
+* This is a bullet
+This is a paragraph with **bold** text embedded in it.
+```{r}
+x <- 1:10
+mean(x)
+```
+
+## Linking to a dataset
+```{r}
+corolla <- read.csv("data/corolla.csv")
+summary(corolla)
+
+
+```

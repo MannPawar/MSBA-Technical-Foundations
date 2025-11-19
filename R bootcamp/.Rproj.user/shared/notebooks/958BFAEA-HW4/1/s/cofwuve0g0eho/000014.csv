@@ -1,0 +1,1 @@
+"0","ggplot(HW4, aes(IsLoyalMember, AccountBalance, fill=IsLoyalMember)) + geom_boxplot() + scale_fill_manual(values=c(""red"", ""green"")) + theme_light()+labs(title=""Account Balance by whether the person is a Loyal Member or not"" ,x=""Loyal Member?"", y=""Account Balance"") "

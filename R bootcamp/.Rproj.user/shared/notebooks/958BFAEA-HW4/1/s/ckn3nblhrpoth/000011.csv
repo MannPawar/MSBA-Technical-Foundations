@@ -1,0 +1,3 @@
+"0"," ggplot(avg_creditscore, aes(Geography, CreditRating, fill = Sex)) + geom_bar(stat = ""identity"","
+"0"," position = ""dodge"") + labs(title = ""Credit Score by Country and Gender"","
+"0"," x = ""Country"", y = ""Average Credit Score"")"
